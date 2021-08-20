@@ -12,15 +12,14 @@ import Skills from './components/Skills';
 
 const App = () => {
   return(
-    <main>
-       <Nav />
-     
+    <main  className="text-gray-300 bg-gray-800 body-font">
+      <Nav />
       <About />
       <Skills />
       <Projects />
       <Contact/> 
     </main>
-)
+  )
 }
 
 export default App;
