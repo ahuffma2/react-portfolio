@@ -3,7 +3,7 @@ import { projects } from "../../info.js";
 
 function Projects() {
     return(
-    <section id="projects" className="text-gray-300 bg-gray-900">
+    <section id="projects" className="text-gray-300 bg-gray-800">
 
       <div className="container p-5 mx-auto text-center">
 

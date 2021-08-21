@@ -2,8 +2,8 @@ import React from 'react';
 
 export default function Nav({currentPage, handlePageChange}) {
     return(
-    <ul className="nav">
-        <span>
+    <section id="nav"  className="text-gray-300 bg-gray-900">
+    <ul className="nav container p-5 mx-auto text-center">
         <li className="nav-item">
           <a
             href="#about"
@@ -27,7 +27,7 @@ export default function Nav({currentPage, handlePageChange}) {
             Projects
           </a>
         </li>
-        </span>
     </ul>
+    </section>
     );
 }
