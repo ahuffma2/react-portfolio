@@ -14,7 +14,7 @@ export const projects = [
       description:
         "I guided this team on making a website from scratch using HTML, CSS, Javascript, Bootstrap, along with Marvel API and Google Books API. While most of the code wasn't directly mine, I had a hand in almost all of it. I created all documentation, kanban boards, Managed the Git repo, resident question answerer. I learned a lot about what it takes to manage a team. You need concrete coding standard. You need documentation and ensure that each of your members is adhering to documentation. All preformed in a single Agile Sprint in a week.",
       image: "/images/Comics-1.jpeg",
-      link: "https://www.comics-assembled.com",
+      link: "https://ahuffma2.github.io/comics-assembled/",
     },
     {
       title: "Vesta Absolution",
@@ -42,5 +42,4 @@ export const skills = [
     'Unity',
     '3ds Max',
     'Adobe Photoshop',
-    'Adobe Premier'
 ]
