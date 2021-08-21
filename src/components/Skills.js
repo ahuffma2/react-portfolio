@@ -1,9 +1,9 @@
 import React from 'react';
 import { skills } from "../info";
 
-
 export default function Skills() {
     return (
+
         <section>
           <div className="container p-5 mx-auto">
             <div className="text-center">
@@ -20,10 +20,8 @@ export default function Skills() {
 
             <div className="flex flex-wrap lg:w-4/5 sm:mx-auto ">
 
-
               {
-              skills.map((skill) => 
-              (
+              skills.map(( skill ) => (
 
                 <div key={skill} className="p-2 sm:w-1/2 w-full">
                   <div className="items-center bg-gray-700 rounded flex p-4">
@@ -34,10 +32,9 @@ export default function Skills() {
 
                   </div>
                 </div>
-
-              ))}
+              ))
+              }
             </div>
-
           </div>
         </section>
       );
