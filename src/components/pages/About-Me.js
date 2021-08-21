@@ -17,7 +17,6 @@ export default function About() {
                 </p>
             </div>
         </div>
-        
 
         <div className="flex justify-center">
             <a

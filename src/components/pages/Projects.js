@@ -1,5 +1,5 @@
 import React from 'react';
-import { projects } from "../info.js";
+import { projects } from "../../info.js";
 
 function Projects() {
     return(
