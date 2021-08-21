@@ -21,6 +21,7 @@ export default function Contact() {
                   <a href="https://github.com/ahuffma2">Github<i className=""></i></a><br/>
                   <a href="https://www.linkedin.com/in/ahuffma2/">LinkedIn<i className="bi bi-linkedin"></i></a><br/>
                   <a href="https://twitter.com/AustinHuffman01">Twitter<i class="bi bi-twitter"></i></a><br/>
+                  <a href="/resume/Austin Huffman Software Engineer.pdf">Resume</a>
                 </div>
               </div>
             </div>
