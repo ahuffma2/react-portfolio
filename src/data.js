@@ -32,10 +32,15 @@ export const skills = [
     'React',
     'MongoDB',
     'Express',
+    'NodeJS',
     'HTML',
     'CSS',
     'Jquery',
     'NextJS',
     'C#',
     'SQL',
+    'Unity',
+    '3ds Max',
+    'Adobe Photoshop',
+    'Adobe Premier'
 ]

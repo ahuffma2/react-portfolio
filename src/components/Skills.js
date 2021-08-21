@@ -14,9 +14,7 @@ export default function Skills() {
               </h1>
 
               <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-                ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-                possimus est.
+                 From self-taught hobby programmer, to college graduate in computer game development, to full stack web developer, I've acquired many useful skills. 
               </p>
 
             </div>
